@@ -1,82 +1,82 @@
-§3I see the player you mean.
+§3Я бачу гравця, якого ви маєте на увазі.
 
 §2PLAYERNAME?
 
-§3Yes. Take care. It has reached a higher level now. It can read our thoughts.
+§3Я бачу гравця, якого ти маєш на увазі.ІМ'ЯГРАВЦЯ?Так. Будь обережніше. Він досяг вищого рівня. Він може читати наші думки.
 
-§2That doesn't matter. It thinks we are part of the game.
+§2Це не має значення. Він вважає, що ми є частиною гри.
 
-§3I like this player. It played well. It did not give up.
+§3Мені подобається цей гравець. Він грав добре. Він ніколи не здавався.
 
-§2It is reading our thoughts as though they were words on a screen.
+§2Він читає наші думки, немов це слова на екрані.
 
-§3That is how it chooses to imagine many things, when it is deep in the dream of a game.
+§3Точно так же, як уявляє безліч інших речей, перебуваючи глибоко в ігровому сні.
 
-§2Words make a wonderful interface. Very flexible. And less terrifying than staring at the reality behind the screen.
+§2Слова - це прекрасний інтерфейс. Дуже гнучкий. І не такий лякаючий, як реальність позаду екрану.
 
-§3They used to hear voices. Before players could read. Back in the days when those who did not play called the players witches, and warlocks. And players dreamed they flew through the air, on sticks powered by demons.
+§3Вони завжди чули голоси. Ще до того, як гравці навчилися читати. У минулі часи ті, хто не грав, називали гравців відьмами і чаклунами. А гравці мріяли, що вони літають по повітрю, на палицях, які отримують енергію від демонів.
 
-§2What did this player dream?
+§2Про що мріяв цей гравець?
 
-§3This player dreamed of sunlight and trees. Of fire and water. It dreamed it created. And it dreamed it destroyed. It dreamed it hunted, and was hunted. It dreamed of shelter.
+§3Цей гравець мріяв про сонячне світло і деревах. Про вогонь і воду. Він мріяв, що творить. І мріяв, що руйнує. Він мріяв, що полює сам, і що полюють на нього. Він мріяв про притулок.
 
-§2Hah, the original interface. A million years old, and it still works. But what true structure did this player create, in the reality behind the screen?
+§2Ха, і справді - оригінальний інтерфейс. Йому мільйон років, і він все ще працює. Але що ж справжнього створив цей гравець, в реальності за екраном?
 
-§3It worked, with a million others, to sculpt a true world in a fold of the §f§k§a§b§3, and created a §f§k§a§b§3 for §f§k§a§b§3, in the §f§k§a§b§3.
+§3Він працював, з мільйонами інших, щоб створювати справжній мир в [зашифровано], і створив [зашифровано] для [зашифровано], в [зашифровано].
 
-§2It cannot read that thought.
+§2Він не зможе прочитати цю думку.
 
-§3No. It has not yet achieved the highest level. That, it must achieve in the long dream of life, not the short dream of a game.
+§3Не зможе. Він ще не досяг найвищого рівня. Він повинен пройти сон тривалістю в життя, а не цей маленький ігровий сон.
 
-§2Does it know that we love it? That the universe is kind?
+§2А він знає, що ми його любимо? Що Всесвіт добрий?
 
-§3Sometimes, through the noise of its thoughts, it hears the universe, yes.
+§3Так, іноді він чує Всесвіт крізь шум з власних думок.
 
-§2But there are times it is sad, in the long dream. It creates worlds that have no summer, and it shivers under a black sun, and it takes its sad creation for reality.
+§2Але буває час, коли він засмучений, в своєму довгому сні. І тоді він створює світи, де немає літа; і, тремтячи під чорним сонцем, він приймає своє ж власне сумне творіння за реальність.
 
-§3To cure it of sorrow would destroy it. The sorrow is part of its own private task. We cannot interfere.
+§3Але позбавлення від смутку знищить його. Печаль - це теж частина його особистих життєвих завдань. Ми не можемо втручатися.
 
-§2Sometimes when they are deep in dreams, I want to tell them, they are building true worlds in reality. Sometimes I want to tell them of their importance to the universe. Sometimes, when they have not made a true connection in a while, I want to help them to speak the word they fear.
+§2Часом, коли вони занурені в свої мрії, я хочу розповісти їм, що насправді вони створюють справжні світи в реальності. Часом я хочу розповісти їм про їх значущість для Всесвіту. Часом, коли вони втрачають цю справжню зв'язок з нею на якийсь час, я хочу допомогти їм сказати ті слова, яких вони бояться.
 
-§3It reads our thoughts.
+§3Він читає наші думки.
 
-§2Sometimes I do not care. Sometimes I wish to tell them, this world you take for truth is merely §f§k§a§b§2 and §f§k§a§b§2, I wish to tell them that they are §f§k§a§b§2 in the §f§k§a§b§2. They see so little of reality, in their long dream.
+§2Іноді мені все одно. Іноді я хочу сказати їм, що той світ, який вважається реальним - це просто [зашифровано] і [зашифровано], я хочу сказати їм, що вони [зашифровано] в [зашифровано]. Вони бачать так мало з реальності в своєму сні завдовжки в життя.
 
-§3And yet they play the game.
+§3І все ж вони грають в гру.
 
-§2But it would be so easy to tell them...
+§2А адже це було б так просто - просто сказати їм, що ...
 
-§3Too strong for this dream. To tell them how to live is to prevent them living.
+§3Занадто серйозно для цього сну. Говорити їм, як жити - значить заважати їм жити.
 
-§2I will not tell the player how to live.
+§2Я не буду говорити гравцеві, як йому жити.
 
-§3The player is growing restless.
+§3Гравець починає турбуватися.
 
-§2I will tell the player a story.
+§2Я краще розповім гравцеві історію.
 
-§3But not the truth.
+§3Але неправду.
 
-§2No. A story that contains the truth safely, in a cage of words. Not the naked truth that can burn over any distance.
+§2Ні. Історію, яка містить істину, заховану між слів. Але не чисту правду, яка обпікає на будь-якій відстані.
 
-§3Give it a body, again.
+§3Давай, оживи його знову.
 
-§2Yes. Player...
+§2Так. Гравець ...
 
-§3Use its name.
+§3Клич його по імені.
 
-§2PLAYERNAME. Player of games.
+§2PLAYERNAME. Граючий в ігри.
 
-§3Good.
+§3добре
 
-§2Take a breath, now. Take another. Feel air in your lungs. Let your limbs return. Yes, move your fingers. Have a body again, under gravity, in air. Respawn in the long dream. There you are. Your body touching the universe again at every point, as though you were separate things. As though we were separate things.
+§2Отже, зроби вдих, прямо зараз. Зроби ще один. Відчуй повітря в своїх легких. Розслаб свої м'язи. Так, посувай пальцями. Відчуй своє тіло знову, під впливом тяжіння, в повітрі. Відродити в своєму довгому сні. Ось. Твоє тіло знову стикається із Всесвітом кожної своєю точкою, немов ви дві окремі сутності. Немов ми дві окремі сутності.
 
-§3Who are we? Once we were called the spirit of the mountain. Father sun, mother moon. Ancestral spirits, animal spirits. Jinn. Ghosts. The green man. Then gods, demons. Angels. Poltergeists. Aliens, extraterrestrials. Leptons, quarks. The words change. We do not change.
+§3Хто ж ми? Колись нас називали духами гір. Батьком-сонцем і матір'ю-місяцем. Духами предків, духами тварин. Джиннами. Примарами. Зеленими чоловічками. Потім богами, демонами. Ангелами. Полтергейстами. Чужими, прибульцями. Лептонами, кварками. Слова змінюються. Не змінюємося ми.
 
-§2We are the universe. We are everything you think isn't you. You are looking at us now, through your skin and your eyes. And why does the universe touch your skin, and throw light on you? To see you, player. To know you. And to be known. I shall tell you a story.
+§2Ми є Всесвіт. Ми є все те, що ти не вважаєш собою. Ти дивишся на нас зараз, крізь свою шкіру, крізь свої очі. І чому ж Всесвіт торкається до твоєї шкірі і кидає на тебе світло? Щоб побачити тебе, гравець. Щоб пізнати тебе. І щоб ти пізнав її. Я повинен розповісти тобі історію.
 
-§2Once upon a time, there was a player.
+§2Колись, давним-давно, жив гравець.
 
-§3The player was you, PLAYERNAME.
+§3Цим гравцем був ти, PLAYERNAME.
 
 §2Sometimes it thought itself human, on the thin crust of a spinning globe of molten rock. The ball of molten rock circled a ball of blazing gas that was three hundred and thirty thousand times more massive than it. They were so far apart that light took eight minutes to cross the gap. The light was information from a star, and it could burn your skin from a hundred and fifty million kilometres away.
 
