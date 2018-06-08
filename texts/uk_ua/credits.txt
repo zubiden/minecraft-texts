@@ -1,17 +1,17 @@
 [C]§f============
-[C]§eMinecraft Team
+[C]§eРозробники Minecraft
 [C]§f============
  
-§7Original Creator
+§7Автор ідеї
 §f          Markus Persson
  
-§7Lead Creative Designer
+§7Головний креативний дизайнер
 §f          Jens Bergensten
  
-§7Production Director
+§7Виробничий директор
 §f          Daniel Kaplan
  
-§7Game Developers
+§7Розробники
 §f          Agnes Larsson
 §f          Alexander Östman
 §f          Aron Nieminen
@@ -33,7 +33,7 @@
 §f          Tomas Alaeus
 §f          Tommaso Checchi
  
-§7Realms Developers
+§7Розробники Realms
 §f          Alexandre Pretto Nunes
 §f          Amir Moulavi
 §f          Christian Westman
@@ -44,51 +44,51 @@
 §f          Mats Henricson
 §f          Philip Vieira
  
-§7Additional Programming
+§7Також брали участь програмісти
 §f          Paul Spooner
 §f          Ryan 'Scaevolus' Hitchman
 §f          Elliot 'Hippoplatimus' Segal
  
-§7Assistant Producers
+§7Помічники продюсера
 §f          Adrian Östergård
 §f          Aleksandra Zajac
 §f          Warren Loo
  
-§7Realms Content Lead
+§7Контенте-менеджер Realms
 §f          Marc Watson
  
-§7Realms Content Coordinator
+§7Координатор контенту в Realms
 §f          Matthew Dryden
  
-§7Art Director
+§7Художній директор
 §f          Markus Toivonen
  
-§7Graphics Artists
+§7Художники
 §f          Johan Aronson
 §f          Kristoffer Zetterstrand
  
-§7Additional Graphics
+§7Додаткова графіка
 §f          Jonatan Pöljö
 §f          Mariana Graham Ramirez
 §f          Martin Johansson
 §f          Ninni Landin
  
-§7User Experience Design
+§7UX дизайнер
 §f          Tobias Ahlin
  
-§7Lead Sound Designer
+§7Головний звуковий дизайнер
 §f          Samuel Åberg
  
-§7Sound Design
+§7Звуковий дизайн
 §f          Daniel Rosenfeld
  
-§7Music composed by
+§7Композитор
 §f          Daniel Rosenfeld
  
-§7Writing
+§7Автор історії в кінці гри
 §f          Julian Gough
  
-§7Developers of Mo’ Creatures
+§7Розробники Mo’ Creatures
 §f          John Olarte (DrZhark)
 §f          Kent Christian Jensen
 §f          Dan Roque
@@ -97,34 +97,34 @@
 [C]§eMojang
 [C]§f========
 
-§7Chief Executive Officer
+§7Головний виконавчий директор
 §f          Jonas Mårtensson
  
-§7Chief Operations Officer
+§7Головний операційний директор
 §f          Vu Bui
  
-§7Chief Finance Officer
+§7Фінансовий директор
 §f          Karin Severinson
  
-§7Brand Director
+§7Бренд-директор
 §f          Lydia Winters
  
-§7Chief Technology Officer
+§7Головний технолог
 §f          Rikard Herlitz
  
-§7Lead Systems Developer
+§7Ведучий програміст
 §f          Kristoffer Jelbring
  
-§7System Developers
+§7Програмісти
 §f          Pär Axelsson
 §f          Robert Sjödahl
 §f          Stefan Torstensson
 §f          Tomas Sommar
  
-§7Customer Support Team Lead
+§7Керівник служби технічної підтримки
 §f          Mattias Victorin
  
-§7Customer Support
+§7Служба технічної підтримки
 §f          Adam Martinsson
 §f          Amelia Lindroth Henriksson
 §f          Angehlica Walling
@@ -141,70 +141,70 @@
 §f          Rui Ribeiro
 §f          Sarah Mårtensson
  
-§7Director of Business Development
+§7Директор з розвитку
 §f          Patrick Geuder
  
-§7Business Intelligence
+§7Бізнес-аналітика
 §f          Brynjólfur Erlingsson
  
-§7Production Director
+§7Директор з виробництва
 §f          Olof Carlsson
  
-§7Producers
+§7Продюсер
 §f          Hampus Nilsson
  
-§7Project Director
+§7Диретор проекту
 §f          Ulrika Höjgård
  
-§7Project Managers
+§7Менеджери проектів
 §f          Henrik Pettersson
 §f          Isabella Balk
 §f          Lisa Kempe
 §f          Nicolette Suraga
  
-§7Director of Creative Communications
+§7Директор креативних комунікацій
 §f          Owen Jones
  
-§7Creative Communications Manager
+§7Менеджер креативних комунікацій
 §f          Martin Davies
  
-§7Creative Communications Assistant
+§7Помічний директор креативних комунікацій
 §f          Tom Stone
  
-§7Head of Community Relations
+§7Начальник відділу зв'язків з громадськістю
 §f          Karim Walldén
  
-§7Head of Social Media
+§7Голова соцільних медіа
 §f          Amelia Dale
  
-§7Office Managers
+§7Менеджери офісів
 §f          David Stuart Dahlgren
 §f          Mikaela Prim
 §f          Siri Hoel Andersson
  
-§7Finance Manager
+§7Керуючий фінансами
 §f          Marina Kostesic
  
-§7Finance Accountants
+§7Бухгалтер
 §f          Josefina Axelsson
  
-§7Graphics Artists
+§7Графічний дизайн
 §f          Mattis Grahm
  
-§73D/vfx Generalist
+§7Художник 3D/візуальних ефектів
 §f          Christian Nordgren
  
-§7Level Designers
+§7Дизайнер рівня
 §f          Max Herngren
  
-§7Product Designers
+§7Дизайнери продуктів
 §f          Amanda Ström
 §f          Filip Thoms
  
-§7Intellectual Property Enforcement Team Lead
+§7Керівник групи з питань впливу на інтелектуальну власність
 §f          Mathias Andersson
  
-§7Intellectual Property Enforcement Agents
+§7Агенти з охорони інтелектуальної власності
 §f          Josefin Olsson
 §f          Matilda Åkerman
 §f          Olle Personne
@@ -213,22 +213,22 @@
 [C]§eMojang Alumni
 [C]§f===========
  
-§7Chief Executive Officers
+§7Генеральний директор
 §f          Carl Manneh
  
-§7Project Directors
+§7Директор проекту
 §f          Jakob Porsér
  
-§7Game Developers
+§7Розробник гри
 §f          Tobias Möllstam
  
-§7System Developers
+§7Системний розробник
 §f          Martin Odhelius
  
-§7Graphics Artists
+§7Художник
 §f          Poi Poi Chen
  
-§7Customer Support
+§7Служба технічної підтримки
 §f          Andreas Andersson
 §f          Andreas Jörgensen
 §f          Annika Tripke-Lund
@@ -249,13 +249,13 @@
 §f          Robin Cocks
 §f          Robin Thunström
  
-§7Office Managers
+§7Менеджери офісів
 §f          Charlotte Wredesjö
 §f          Jill Curran
 §f          Linn Hultman
 
 [C]§f============
-[C]§eSpecial Thanks
+[C]§eОсоблива подяка
 [C]§f============
 
 §f          Daniel Brynolf
@@ -265,4 +265,4 @@
 
 
 
-§f"Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover." §7- Unknown
+§f"Через 20 років ви будете більше розчаровані тим, чого не зробили, ніж тим що зробили. Відкиньте сумніви. Випливіть з безпечної бухти. Спіймайте попутний вітер своїми парусами. Досліджуйте. Мрійте. Відкривайте." §7- Невідомий
