@@ -1,17 +1,17 @@
 [C]§f============
-[C]§eMinecraft Team
+[C]§eКоманда Minecraft
 [C]§f============
  
 §7Original Creator
-§f          Markus Persson
+§f          Маркус Перссон
  
-§7Lead Creative Designer
+§7Ведучий креативний дизайнер
 §f          Jens Bergensten
  
-§7Production Director
+§7Виробничий директор
 §f          Daniel Kaplan
  
-§7Game Developers
+§7Розробники гри
 §f          Agnes Larsson
 §f          Alexander Östman
 §f          Aron Nieminen
@@ -33,7 +33,7 @@
 §f          Tomas Alaeus
 §f          Tommaso Checchi
  
-§7Realms Developers
+§7Розробники Realms
 §f          Alexandre Pretto Nunes
 §f          Amir Moulavi
 §f          Christian Westman
@@ -44,30 +44,30 @@
 §f          Mats Henricson
 §f          Philip Vieira
  
-§7Additional Programming
+§7Додаткове програмування
 §f          Paul Spooner
 §f          Ryan 'Scaevolus' Hitchman
 §f          Elliot 'Hippoplatimus' Segal
  
-§7Assistant Producers
+§7Помічники виробників
 §f          Adrian Östergård
 §f          Aleksandra Zajac
 §f          Warren Loo
  
-§7Realms Content Lead
+§7Ведучий вмісту Realms
 §f          Marc Watson
  
-§7Realms Content Coordinator
+§7Координатор вмісту Realms
 §f          Matthew Dryden
  
-§7Art Director
+§7Арт-директор
 §f          Markus Toivonen
  
-§7Graphics Artists
+§7Художники графіки
 §f          Johan Aronson
 §f          Kristoffer Zetterstrand
  
-§7Additional Graphics
+§7Додаткова графіка
 §f          Jonatan Pöljö
 §f          Mariana Graham Ramirez
 §f          Martin Johansson
@@ -76,19 +76,19 @@
 §7User Experience Design
 §f          Tobias Ahlin
  
-§7Lead Sound Designer
+§7Ведучий дизайнер звуку
 §f          Samuel Åberg
  
-§7Sound Design
+§7Звукорежисер
 §f          Daniel Rosenfeld
  
-§7Music composed by
+§7Композитор
 §f          Daniel Rosenfeld
  
-§7Writing
+§7Написання
 §f          Julian Gough
  
-§7Developers of Mo’ Creatures
+§7Розробники Mo’ Creatures
 §f          John Olarte (DrZhark)
 §f          Kent Christian Jensen
 §f          Dan Roque
@@ -97,34 +97,34 @@
 [C]§eMojang
 [C]§f========
 
-§7Chief Executive Officer
+§7Головний виконавчий директор
 §f          Jonas Mårtensson
  
-§7Chief Operations Officer
+§7Головний операційний директор
 §f          Vu Bui
  
-§7Chief Finance Officer
+§7Головний фінансовий директор
 §f          Karin Severinson
  
-§7Brand Director
+§7Директор бренду
 §f          Lydia Winters
  
-§7Chief Technology Officer
+§7Головний технічний директор
 §f          Rikard Herlitz
  
-§7Lead Systems Developer
+§7Ведучий системний розробник
 §f          Kristoffer Jelbring
  
-§7System Developers
+§7Розробники системи
 §f          Pär Axelsson
 §f          Robert Sjödahl
 §f          Stefan Torstensson
 §f          Tomas Sommar
  
-§7Customer Support Team Lead
+§7Керівник відділу підтримки клієнтів
 §f          Mattias Victorin
  
-§7Customer Support
+§7Підтримка клієнтів
 §f          Adam Martinsson
 §f          Amelia Lindroth Henriksson
 §f          Angehlica Walling
@@ -141,22 +141,22 @@
 §f          Rui Ribeiro
 §f          Sarah Mårtensson
  
-§7Director of Business Development
+§7Директор з розвитку бізнесу
 §f          Patrick Geuder
  
-§7Business Intelligence
+§7Бізнес-аналітика
 §f          Brynjólfur Erlingsson
  
-§7Production Director
+§7Виробничий директор
 §f          Olof Carlsson
  
 §7Producers
 §f          Hampus Nilsson
  
-§7Project Director
+§7Директор проекту
 §f          Ulrika Höjgård
  
-§7Project Managers
+§7Менеджери проектів
 §f          Henrik Pettersson
 §f          Isabella Balk
 §f          Lisa Kempe
