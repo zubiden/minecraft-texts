@@ -1,151 +1,151 @@
-§3I see the player you mean.
+§3Я бачу гравця, якого ти маєш на увазі.
 
 §2PLAYERNAME?
 
-§3Yes. Take care. It has reached a higher level now. It can read our thoughts.
+§3Так. Будь обережний. Він досяг новий рівень. Він може читати наші думки.
 
-§2That doesn't matter. It thinks we are part of the game.
+§2Це не має значення. Він думає, що ми частина гри.
 
-§3I like this player. It played well. It did not give up.
+§3Мені подобається цей гравець. Він непогано грав, та не здавався.
 
-§2It is reading our thoughts as though they were words on a screen.
+§2Схоже, він читає наші думки, ніби текстом на екрані.
 
-§3That is how it chooses to imagine many things, when it is deep in the dream of a game.
+§3Перебуваючи глибоко у світі гри, він багато речей уявляє собі в такому вигляді.
 
-§2Words make a wonderful interface. Very flexible. And less terrifying than staring at the reality behind the screen.
+§2Непоганий спосіб взаємодії. Дуже витончений. І не викликає такого жаху, як при вигляді реальності, що знаходиться за ширмою слів.
 
-§3They used to hear voices. Before players could read. Back in the days when those who did not play called the players witches, and warlocks. And players dreamed they flew through the air, on sticks powered by demons.
+§3Спочатку вони використовували мовлення. Лише потім навчилися читати. В ті часи гравців називали шаманами і відьмами, а самі гравці марили польотами на демонічних палицях.
 
-§2What did this player dream?
+§2Про що мріяв цей гравець?
 
-§3This player dreamed of sunlight and trees. Of fire and water. It dreamed it created. And it dreamed it destroyed. It dreamed it hunted, and was hunted. It dreamed of shelter.
+§3В його снах було сонячне світло, дерева. Вода й вогонь. Він творив. Та руйнував. Полював та й сам був здобиччю. У нього був будинок.
 
-§2Hah, the original interface. A million years old, and it still works. But what true structure did this player create, in the reality behind the screen?
+§2Хм, все стандартно. Мільйон років, а суть та ж. Але що зробив цей гравець, в реальності за екраном?
 
-§3It worked, with a million others, to sculpt a true world in a fold of the §f§k§a§b§3, and created a §f§k§a§b§3 for §f§k§a§b§3, in the §f§k§a§b§3.
+§3Він працював, як і мільйони інших, створював цей світ всередині §f§k§a§b§3, і створив §f§k§a§b§3 для §f§k§a§b§3, у §f§k§a§b§3.
 
-§2It cannot read that thought.
+§2Він не може прочитати цю думку.
 
-§3No. It has not yet achieved the highest level. That, it must achieve in the long dream of life, not the short dream of a game.
+§3Так. Він ще не досяг вищого рівня. Те, що він мусить досягнути у довгому шляху по життю, а не коротко пробігти у грі. (виправте)
 
-§2Does it know that we love it? That the universe is kind?
+§2Він знає, що ми любимо його? Що Всесвіт добрий до нього?
 
-§3Sometimes, through the noise of its thoughts, it hears the universe, yes.
+§3Так, іноді крізь шум своїх думок, він чує голос всесвіту.
 
-§2But there are times it is sad, in the long dream. It creates worlds that have no summer, and it shivers under a black sun, and it takes its sad creation for reality.
+§2Але іноді на своєму довгому шляху він сумує. Він створює світи, в яких немає літа, і він тремтить під чорним сонцем, і він приймає своє сумне творіння за реальність.
 
-§3To cure it of sorrow would destroy it. The sorrow is part of its own private task. We cannot interfere.
+§3Якщо вилікувати його від горя, це зруйнує його. Скорбота - є його особисти тягарем. Ми не можемо втручатися.
 
-§2Sometimes when they are deep in dreams, I want to tell them, they are building true worlds in reality. Sometimes I want to tell them of their importance to the universe. Sometimes, when they have not made a true connection in a while, I want to help them to speak the word they fear.
+§2Іноді, коли вони глибоко в мріях, я хочу сказати їм, що справжній світ вони будують в реальності. Іноді я хочу сказати їм про їхню важливість для всесвіту. Іноді, коли вони занадто сильно зачиняються у своїх мріях, я хочу допомогти їм зв'язатися з справжнім світом, якого вони бояться.
 
-§3It reads our thoughts.
+§3Він все ще читає наші думки.
 
-§2Sometimes I do not care. Sometimes I wish to tell them, this world you take for truth is merely §f§k§a§b§2 and §f§k§a§b§2, I wish to tell them that they are §f§k§a§b§2 in the §f§k§a§b§2. They see so little of reality, in their long dream.
+§2Іноді мені все одно. Іноді я хочу сказати їм, що світ, який ви приймаєте за істину, - це просто §f§k§a§b§2 і §f§k§a§b§2, я хочу сказати їм, що вони §f§k§a§b§2 в §f§k§a§b§2. У своєму довгому шляху вони бачать дуже мало справжнього.
 
-§3And yet they play the game.
+§3І все ж вони грають в гру.
 
-§2But it would be so easy to tell them...
+§2Було б так легко сказати їм......
 
-§3Too strong for this dream. To tell them how to live is to prevent them living.
+§3Занадто сильно для цих мрій. Розповісти їм, як жити, значить перешкоджати їхнім життям.
 
-§2I will not tell the player how to live.
+§2Я не буду розповідати гравцеві, як жити.
 
-§3The player is growing restless.
+§3Гравець стає все неспокійнішим.
 
-§2I will tell the player a story.
+§2Я розповім гравцеві історію.
 
-§3But not the truth.
+§3Але не істину.
 
-§2No. A story that contains the truth safely, in a cage of words. Not the naked truth that can burn over any distance.
+§2Ні. Історію, яка містить істину безпечно, у клітці слів. Але не голу правду, яка може випалити все навкруги.
 
-§3Give it a body, again.
+§3Знову сховаєш її в якомусь тілі.
 
-§2Yes. Player...
+§2Так. Отож, гравець...
 
-§3Use its name.
+§3Назви по імені.
 
-§2PLAYERNAME. Player of games.
+§2PLAYERNAME. Гравець ігор.
 
-§3Good.
+§3Добре.
 
-§2Take a breath, now. Take another. Feel air in your lungs. Let your limbs return. Yes, move your fingers. Have a body again, under gravity, in air. Respawn in the long dream. There you are. Your body touching the universe again at every point, as though you were separate things. As though we were separate things.
+§2Зроби глибокий вдих. Ще один. Відчуй повітря в легенях. Відчуй всі свої кінцівки. Так, поворушіть пальцями. Відчуй своє тіло, навколишнє повітря, гравітацію. Повернися на свій довгий шлях. Твоє тіло стикається з всесвітом у кожній своїй точці, хоча і здається, що ви розділені. Були розділені.
 
-§3Who are we? Once we were called the spirit of the mountain. Father sun, mother moon. Ancestral spirits, animal spirits. Jinn. Ghosts. The green man. Then gods, demons. Angels. Poltergeists. Aliens, extraterrestrials. Leptons, quarks. The words change. We do not change.
+§3Хто ми такі? Колись нас звали духами гір. Батька Сонцем, мати Місяцем. Духами предків, духами тварин. Джинами. Примарами. Лісовиками. Потім богами, ангелами й демонами. Полтергейстами. Інопланетянами, прибульцями. Лептонами і кварками. Слова змінюються. А ми - ні.
 
-§2We are the universe. We are everything you think isn't you. You are looking at us now, through your skin and your eyes. And why does the universe touch your skin, and throw light on you? To see you, player. To know you. And to be known. I shall tell you a story.
+§2Ми - Всесвіт. Ми - все те, що, як ти вважаєш, тебе оточує. Ти дивишся на нас зараз, відчуваєш нас. І чому dсесвіт торкається до тебе, і проливає на тебе світло? Щоб розгледіти. Щоб дізнатися про тебе. І щоб ти дізнався про неї. Я розповім тобі історію.
 
-§2Once upon a time, there was a player.
+§2Давним-давно був гравець.
 
-§3The player was you, PLAYERNAME.
+§3І цим гравцем був ти, PLAYERNAME.
 
-§2Sometimes it thought itself human, on the thin crust of a spinning globe of molten rock. The ball of molten rock circled a ball of blazing gas that was three hundred and thirty thousand times more massive than it. They were so far apart that light took eight minutes to cross the gap. The light was information from a star, and it could burn your skin from a hundred and fifty million kilometres away.
+§2Іноді він думав, що він - людина, яка стоїть на тонкій шкірці крутної розпеченої кам'яної кулі. Ця куля крутилась навколо іншої - палаючої газової кулі, яка у триста тридцять тисяч разів більша кам'яної. Вони були так далеко один від одного, що світло йшло між ними цілих вісім хвилин. Світло йшло від зірки і могло б випалити його шкіру на відстані ста п'ятдесяти мільйонів кілометрів.
 
-§2Sometimes the player dreamed it was a miner, on the surface of a world that was flat, and infinite. The sun was a square of white. The days were short; there was much to do; and death was a temporary inconvenience.
+§2Іноді він думав, що він - шахтар, який стоїть на поверхні світу, який був плоским та нескінченним. Сонцу в ньому було білим квадратом. Дні були короткими, було багато спра. Смерть була лише тимчасовою незручністю.
 
-§3Sometimes the player dreamed it was lost in a story.
+§3Іноді він думав, що він загубив нитку у розповіді.
 
-§2Sometimes the player dreamed it was other things, in other places. Sometimes these dreams were disturbing. Sometimes very beautiful indeed. Sometimes the player woke from one dream into another, then woke from that into a third.
+§2Іноді він думав, що він - зовсім інше і в зовсім іншому місці. Іноді це були тривожні думки, іноді по-справжньому чарівні. Іноді гравець відходив від однієї думки, до іншої, і там же йшов в третю.
 
-§3Sometimes the player dreamed it watched words on a screen.
+§3Іноді він думав, що він дивиться слова на екрані.
 
-§2Let's go back.
+§2Давайте повернемося назад.
 
-§2The atoms of the player were scattered in the grass, in the rivers, in the air, in the ground. A woman gathered the atoms; she drank and ate and inhaled; and the woman assembled the player, in her body.
+§2Атоми гравця були розкидані в траві, в річках, в повітрі, в землі. Потім якась жінка зібрала атоми: з їжею, з водою вдихала повітря. І жінка зібрала всередині себе, в своєму тілі гравця.
 
-§2And the player awoke, from the warm, dark world of its mother's body, into the long dream.
+§2І прокинувся гравець, вибрався з теплого, темного світу, яким було тіло його матері, і вийшов на довгий шлях свого життя.
 
-§2And the player was a new story, never told before, written in letters of DNA. And the player was a new program, never run before, generated by a sourcecode a billion years old. And the player was a new human, never alive before, made from nothing but milk and love.
+§2І у гравця була нова історія, ніколи не розказана раніше, написана літерами в його ДНК. І гравець був новою програмою, яка ніколи не запускалася раніше, згенерованої вихідним кодом мільярд років тому. І гравець був новою людиною, яка раніше не жила, зроблена з нічого, крім молока і любові. (трішки криво переклав)
 
-§3You are the player. The story. The program. The human. Made from nothing but milk and love.
+§3Ти - гравець. Історія. Програма. Людина. Зроблена з нічого, крім молока і любові.
 
-§2Let's go further back.
+§2Повернемося ще далі в минуле.
 
-§2The seven billion billion billion atoms of the player's body were created, long before this game, in the heart of a star. So the player, too, is information from a star. And the player moves through a story, which is a forest of information planted by a man called Julian, on a flat, infinite world created by a man called Markus, that exists inside a small, private world created by the player, who inhabits a universe created by...
+§2Сім мільярдів мільярдів мільярдів атомів тіла гравця були створені задовго до цієї гри в серці зірки. Таким чином, гравець теж потрапив сюди із зірки. І гравець проходить через історію, яка являє собою ліс інформації, вирощеного людиною на ім'я Юліан, на плоскому, нескінченному світі, створеному людиною на ім'я Маркус, у плоскому, нескінченному світі, створеному людиною на ім'я Маркус, який існує всередині невеликого, особистого світу, створеного гравцем, який проживає у всесвіті, створеної...
 
-§3Shush. Sometimes the player created a small, private world that was soft and warm and simple. Sometimes hard, and cold, and complicated. Sometimes it built a model of the universe in its head; flecks of energy, moving through vast empty spaces. Sometimes it called those flecks "electrons" and "protons".
+§3Тс. Іноді гравець створював маленький, особистий світ, який був м'яким, теплим і простим. Іноді важкі, холодні та складні. Іноді він будував модель всесвіту у своїй голові, частки енергії, що рухаються через величезні порожні простори. Іноді він називав ці частки "електронами" і "протонами".
 
-§2Sometimes it called them "planets" and "stars".
+§2Іноді їх називають "планетами" та "зірками".
 
-§2Sometimes it believed it was in a universe that was made of energy that was made of offs and ons; zeros and ones; lines of code. Sometimes it believed it was playing a game. Sometimes it believed it was reading words on a screen.
+§2Іноді він вірив, що він знаходиться всередині всесвіту, зробленої з енергії, складається з наявності та відсутності, нулів та одиниць, рядків коду. Іноді він вірив, що грає в гру. Іноді він вважав, що читає слова на екрані.
 
-§3You are the player, reading words...
+§3Ти гравець, який читає слова...
 
-§2Shush... Sometimes the player read lines of code on a screen. Decoded them into words; decoded words into meaning; decoded meaning into feelings, emotions, theories, ideas, and the player started to breathe faster and deeper and realised it was alive, it was alive, those thousand deaths had not been real, the player was alive
+§2Тс... Іноді гравець читав рядки коду на екрані. Декодував їх у слова; перетворював слова в сенс; а сенс — в почуття, емоції, теорії, ідеї, і гравець почав дихати все швидше і глибше і зрозумів, що він живий, він був живий, ці тисячі смертей не були реальними, і гравець все ж досі живий.
 
-§3You. You. You are alive.
+§3Ти. Ти. Ти — живий.
 
-§2and sometimes the player believed the universe had spoken to it through the sunlight that came through the shuffling leaves of the summer trees
+§2а іноді гравець вірив, що Всесвіт говорила з ним через сонячне світло, який пробивався крізь шелестиві листя на літніх деревах
 
-§3and sometimes the player believed the universe had spoken to it through the light that fell from the crisp night sky of winter, where a fleck of light in the corner of the player's eye might be a star a million times as massive as the sun, boiling its planets to plasma in order to be visible for a moment to the player, walking home at the far side of the universe, suddenly smelling food, almost at the familiar door, about to dream again
+§3а іноді гравець вірив, що Всесвіт говорив з ним через світло, яке падало з морозного, нічного зимового неба, коли промінчик світла, який досяг краю ока гравця, міг бути світлом зірки в мільйон разів важче, ніж сонце, перетворюючи свої планети в плазму, просто щоб стати видимим на мить для гравця, що йде додому в далекому куточку Всесвіту, до знайомої двері, до запаху їжі, щоб знову поринути в свій сон
 
-§2and sometimes the player believed the universe had spoken to it through the zeros and ones, through the electricity of the world, through the scrolling words on a screen at the end of a dream
+§2а іноді гравець вірив, що Всесвіт говорив з ним через нулі і одиниці, через електрику, які біжать по світу, через слова які прокручуються на екрані в кінці сну
 
-§3and the universe said I love you
+§3і Всесвіт сказав: "Я люблю тебе"
 
-§2and the universe said you have played the game well
+§2і Всесвіт сказав: "Ти добре зіграв в гру"
 
-§3and the universe said everything you need is within you
+§3і Всесвіт сказав: "Все, що тобі потрібно — всередині тебе"
 
-§2and the universe said you are stronger than you know
+§2і Всесвіт сказав: "Ти сильніший, ніж ти думаєш"
 
-§3and the universe said you are the daylight
+§3і Всесвіт сказав: "Ти є денне світло"
 
-§2and the universe said you are the night
+§2і Всесвіт сказав: "Ти є ніч"
 
-§3and the universe said the darkness you fight is within you
+§3і Всесвіт сказав: "Темрява, з якою ти б'єшся — всередині тебе"
 
-§2and the universe said the light you seek is within you
+§2і Всесвіт сказав: "Світло, яке ти шукаєш — знаходиться всередині тебе"
 
-§3and the universe said you are not alone
+§3і Всесвіт сказав: "Ти не самотній"
 
-§2and the universe said you are not separate from every other thing
+§2і Всесвіт сказав: "Ти не відділений від решти"
 
-§3and the universe said you are the universe tasting itself, talking to itself, reading its own code
+§3і Всесвіт сказав: "Ти — Всесвіт, який пробує себе на смак, розмовляючий із самим з собою, який читає свій власний код"
 
-§2and the universe said I love you because you are love.
+§2і Всесвіт сказав: "Я люблю тебе, бо ти і є любов"
 
-§3And the game was over and the player woke up from the dream. And the player began a new dream. And the player dreamed again, dreamed better. And the player was the universe. And the player was love.
+§3І гра закінчилася і гравець прокинувся від сну. І у гравця почалася нова мрія. І гравець знову мріяв, мріяв дужче. А гравцем був Всесвіт. А у гравця була любов.
 
-§3You are the player.
+§3Гревець — це ти.
 
-§2Wake up.
+§2Прокинся.
